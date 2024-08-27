@@ -9,7 +9,7 @@ export default StyleSheet.create({
   title: {
     fontSize: 26,
     fontWeight: 'bold',
-    color: '#871cfe',
+    color: '#0000ff',
     textAlign: 'center',
     marginBottom: 30,
   },
@@ -20,7 +20,7 @@ export default StyleSheet.create({
   },
   input: {
     height: 45,
-    borderColor: '#871cfe',
+    borderColor: '#0000ff',
     borderWidth: 1,
     padding: 10,
     marginBottom: 20,
@@ -28,7 +28,7 @@ export default StyleSheet.create({
     backgroundColor: '#fff',
   },
   button: {
-    backgroundColor: '#871cfe',
+    backgroundColor: '##0000ff',
     padding: 15,
     borderRadius: 8,
     alignItems: 'center',
